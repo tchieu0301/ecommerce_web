@@ -1,0 +1,17 @@
+.amount{
+    text-align: center;
+}
+.scroll_container {
+    display: flex;
+    overflow-x: auto;
+}
+.row-50{
+    width:50%;
+    display: block;
+}
+.back-to-homepage{
+    margin-top:30px;
+}
+.product-style{
+    height: fit-content;
+}

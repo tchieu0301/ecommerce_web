@@ -1,0 +1,19 @@
+.productstyle{
+    align-items: center;
+}
+.price{
+    color:red;
+    font-weight: bold;
+}
+.free-ship{
+    text-align: center;
+    background-color: #1976D2;
+    color:white;
+    font-weight: bold;
+    padding: 10px;
+    margin: 0 0 30px;
+    border-radius: 5px;
+}
+.detail{
+    text-align: center;
+}
